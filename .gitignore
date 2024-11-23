@@ -1,0 +1,22 @@
+# Ignore all parent directories
+../../../*
+
+# Ignore specific system or unwanted files
+*.pdf
+*.lnk
+*.exe
+*.docx
+*.jpg
+*.png
+*.zip
+*.txt
+*.ini
+
+# Ignore specific folders
+Application Data/
+Cookies/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
